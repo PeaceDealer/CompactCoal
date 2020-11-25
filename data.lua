@@ -1,1 +1,2 @@
-require("prototypes.compactcoal")
+require("prototypes.items")
+require("prototypes.recipies")
