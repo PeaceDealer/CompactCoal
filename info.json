@@ -1,11 +1,11 @@
 {
     "name": "CompactCoal",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "title": "Compact Coal",
     "author": "PeaceDealer",
     "contact": "jlaursen.dk@gmail.com",
-    "homepage": "http://jalawebs.com/",
-    "factorio_version": "0.16",
-    "dependencies": ["base >= 0.16"],
+    "homepage": "https://jalawebs.com/",
+    "factorio_version": "1.0.0",
+    "dependencies": ["base >= 1.0.0"],
     "description": "This mod allows you to compress coal into larger bits"
 }
