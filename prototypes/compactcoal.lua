@@ -56,7 +56,7 @@ local compactcoalRecipie = {
 		{"coal", 9}
 	},
 	result = "compact-coal",
-	energy_requred=10
+	energy_required=10
 }
 
 local densecoalRecipie = {
@@ -68,7 +68,7 @@ local densecoalRecipie = {
 		{"compact-coal", 9}
 	},
 	result = "dense-coal",
-	energy_requred=20
+	energy_required=20
 }
 
 local densecompactcoalRecipie = {
@@ -80,7 +80,7 @@ local densecompactcoalRecipie = {
 		{"dense-coal", 9}
 	},
 	result = "dense-compact-coal",
-	energy_requred=40
+	energy_required=40
 }
 
 local diamondRecipie = {
@@ -92,7 +92,7 @@ local diamondRecipie = {
 		{"dense-compact-coal", 9}
 	},
 	result = "diamond",
-	energy_requred=80
+	energy_required=80
 }
 
 
