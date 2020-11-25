@@ -5,7 +5,7 @@ local compactcoal = {
 	flags = {},
 	subgroup = "raw-material",
 	stack_size = 64,
-	fuel_value = "80MJ",
+	fuel_value = "40MJ",
 	fuel_category = "chemical",
 	icon_size = 32,
 }
@@ -17,7 +17,7 @@ local densecoal = {
 	flags = {},
 	subgroup = "raw-material",
 	stack_size = 64,
-	fuel_value = "800MJ",
+	fuel_value = "400MJ",
 	fuel_category = "chemical",
 	icon_size = 32,
 }
@@ -29,7 +29,7 @@ local densecompactcoal = {
 	flags = {},
 	subgroup = "raw-material",
 	stack_size = 64,
-	fuel_value = "8000MJ",
+	fuel_value = "4000MJ",
 	fuel_category = "chemical",
 	icon_size = 32,
 }
@@ -41,7 +41,7 @@ local diamond = {
 	flags = {},
 	subgroup = "raw-material",
 	stack_size = 64,
-	fuel_value = "80000MJ",
+	fuel_value = "40000MJ",
 	fuel_category = "chemical",
 	icon_size = 32,
 }
