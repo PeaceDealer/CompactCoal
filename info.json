@@ -5,7 +5,7 @@
     "author": "PeaceDealer",
     "contact": "jlaursen.dk@gmail.com",
     "homepage": "https://jalawebs.com/",
-    "factorio_version": "1.1",
+    "factorio_version": "1.0",
     "dependencies": ["base >= 1.0"],
     "description": "This mod allows you to compress coal into larger bits"
 }
